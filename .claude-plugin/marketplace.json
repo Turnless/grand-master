@@ -1,0 +1,14 @@
+{
+  "name": "grand-master",
+  "owner": {
+    "name": "Abdulsalam Hassan",
+    "url": "https://github.com/Turnless"
+  },
+  "plugins": [
+    {
+      "name": "grand-master",
+      "source": "./",
+      "description": "Teach your AI to code like you: learn, modify, review, and enforce your project's coding patterns."
+    }
+  ]
+}

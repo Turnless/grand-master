@@ -1,0 +1,13 @@
+{
+  "name": "grand-master",
+  "version": "0.1.0",
+  "description": "Teach your AI to code like you. Learns your patterns (data fetching, error handling, naming, folder layout), verifies them, and enforces them every session.",
+  "author": {
+    "name": "Abdulsalam Hassan",
+    "url": "https://github.com/Turnless"
+  },
+  "homepage": "https://github.com/Turnless/grand-master",
+  "repository": "https://github.com/Turnless/grand-master",
+  "license": "MIT",
+  "keywords": ["patterns", "consistency", "conventions", "code-style", "vibe-coding"]
+}
